@@ -27,7 +27,7 @@
   <a href="https://api.whatsapp.com/send?phone=5547999636240" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.facebook.com/valknalol/" alt="Facebook" target="_blank">
+  <a href="https://www.facebook.com/valknalol/" alt="Facebook" target=_blank>
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="https://www.instagram.com/valkna/" alt="Instagram" target="_blank">
