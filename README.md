@@ -1,17 +1,17 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "ValknaDev";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Vanessa Al-Valkna";
+  area = "Back-end and DB";
+  trabalho = "Working So Hard To Be A Dev";
+  local = "Localhost At My Home";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["PHP, MySQL and Postgre"];
+  bibliotecas = ["Whoops, Edge"];
+  frameworks = ["Laravel, Django"];
 }
 ```
 
@@ -19,7 +19,7 @@ class Skills extends Desenvolvedor {
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/valkna/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/valkna/)" /></a>
 
   <a href="#" alt="WhatsApp">
