@@ -1,4 +1,4 @@
-<img src="https://photos.google.com/photo/AF1QipNzF8enbb63Pp_UsHXq-eDVmqsJ3JIKsY1Lf1QA" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://photos.app.goo.gl/ek9ra5uCw7up4GGG2" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hi, guys, Valkna here! I am a beginner web developer studant <strong>focused in back-end coding</strong>.<br>
