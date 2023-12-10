@@ -11,7 +11,7 @@
 <p> Feel free to reach out if you want to chat about the latest in backend development, need a teammate for your next hackathon, or if you just want to say hi! I promise I'm friendlier than a well-documented API. 😉 </p>
 
 <p align="left">
-  💼 Ferramentas: **Me and my brain. And, of course, Doker, Kubernetes, Apache, Jira, Slack, GitHub, Stack Overflow and ChatGPT**
+  💼 Tools: **Me and my brain. And, of course, Doker, Kubernetes, Apache, Jira, Slack, GitHub, Stack Overflow and ChatGPT**
 </p>
 
 ## Get in touch
